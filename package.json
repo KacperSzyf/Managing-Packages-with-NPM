@@ -1,4 +1,9 @@
 {
+  "author": "Kacper S",
+  "description": "Code and files for freeCodeCamp's Back End Development and APIs course.",
+  "keywords": ["learning", "curriculum", "api", "backend", "freecodecamp"],
+  "license": "MIT",
+  "version": "0.25",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
